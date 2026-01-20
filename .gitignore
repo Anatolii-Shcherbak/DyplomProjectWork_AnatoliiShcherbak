@@ -1,0 +1,12 @@
+# Unity temp files
+[Ll]ibrary/ 
+[Tt]emp/ 
+Obj/ 
+[Bb]uilds/* 
+MemoryCaptures/ 
+*.csproj 
+*.sln 
+*.user 
+*.pidb 
+*.booproj 
+*.svd 
